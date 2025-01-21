@@ -1,3 +1,4 @@
+![logo](https://github.com/mayank1327/mayank1327/blob/main/codeWord3.jpeg)
 <h1 align="center">Hi 👋, I'm Mayank Mehta</h1>
 <h3 align="center">A passionate developer exploring new technologies!!</h3>
 
