@@ -3,23 +3,105 @@
 <h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">ECE student | Developer | Building projects with Java, DSA & MERN Stack</h3>
 
------
+<div align="center">
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=mayank1327&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/mayank1327)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/mayank1327)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/mayank1327/)
+  [![Medium](https://img.shields.io/badge/Medium-Follow-black)](https://medium.com/@mayank1327)
+  
+</div>
 
-### 👨‍💻 About Me
-Hi! I’m **Mayank**, an *ECE student* passionate about **creating & exploring through code**.  
-
-I love building **logic with Java & DSA**, and I find it exciting to **turn ideas into useful projects**.  
-Currently, I’m diving deeper into **Low-Level Design (LLD)** and working on **real-world projects** to enhance my skills.  
-
-Outside of coding, I enjoy:  
-- 🎵 Listening to **old songs**  
-- ☕ Savoring a warm cup of **tea**  
-- 🌿 Enjoying **peaceful moments**  
-
-> “Coding is not just writing lines, it’s building ideas into reality.”
 ---
 
-### 📫 Connect With Me
+### 🎯 Quick Highlights
+
+- 🎓 ECE Student passionate about technology
+- 💻 Full Stack Developer with MERN expertise
+- 🌟 Strong foundation in Java & Data Structures
+- 🔍 Currently exploring Low-Level Design (LLD)
+- 🚀 Building real-world projects
+- 📚 Continuous learner & problem solver
+
+### 👨‍💻 About Me
+
+Hey there! I'm **Mayank**, an enthusiastic ECE student with a deep passion for software development. My journey in tech is driven by:
+
+- 🔭 Building robust applications using **Java** and **MERN Stack**
+- 🌱 Mastering **Data Structures & Algorithms**
+- 💡 Implementing **clean code** practices & **design patterns**
+- 🎯 Creating solutions that make a difference
+
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+### 🌟 What Makes Me Different
+
+- 🤝 Strong team collaboration skills
+- 🎯 Detail-oriented problem solver
+- 📚 Quick learner & adaptable
+- 💭 Creative thinking approach
+
+### 🎵 Beyond Coding
+
+When I'm not coding, you'll find me:
+- 🎵 Vibing to old classic songs
+- ☕ Enjoying a perfect cup of tea
+- 🌿 Finding peace in nature
+- 📖 Learning something new
+
+### 🛠 Technical Arsenal
+
+<details>
+<summary>Click to expand!</summary>
+
+#### Programming Languages
+```
+- Java (Advanced)
+- JavaScript (Proficient)
+- C++ (Intermediate)
+```
+
+#### Web Development
+```
+Frontend:
+- React.js
+- HTML5 & CSS3
+- Material-UI
+- Tailwind CSS
+- Bootstrap
+
+Backend:
+- Node.js
+- Express.js
+- RESTful APIs
+```
+
+#### Databases
+```
+- MongoDB
+- MySQL
+```
+
+#### Tools & Technologies
+```
+- Git & GitHub
+- Postman
+- VS Code
+- Eclipse
+```
+
+#### Computer Science Fundamentals
+```
+- Data Structures
+- Algorithms
+- Object-Oriented Programming
+- Design Patterns
+- System Design (Basic)
+```
+</details>
+
+### 📫 Let's Connect!
+
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/mayank1327" target="_blank">
@@ -45,53 +127,42 @@ Outside of coding, I enjoy:
   <a href="https://medium.com/@mayank1327" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/medium-47-433633.png" alt="Medium" height="30" width="40"/>
   </a>
-
----
-
-### 🛠 Skills & Tech Stack
-
-**Programming Languages:**  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </p>
 
-**Frameworks & Technologies:**  
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material-UI" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</p>
+### 📊 GitHub Analytics
 
-**System Design & LLD:**  
-<p>
-  <img src="https://img.icons8.com/ios-filled/50/000000/object-oriented-programming.png" alt="OOP" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/design-patterns.png" alt="Design Patterns" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/data-configuration.png" alt="System Design" width="40" height="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/algorithm.png" alt="DSA" width="40" height="40"/>
-</p>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayank1327&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayank1327&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank1327&theme=default&hide_border=true" alt="GitHub Streak" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank1327&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank1327&layout=compact&theme=radical" alt="Most Used Languages" />
+</div>
+
+### 🏆 Recent Achievements
+
+- 🌟 Completed 200+ DSA problems on LeetCode
+- 🚀 Built full-stack projects using MERN
+- 📚 Learning System Design principles
+
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- Follow me on [Medium](https://medium.com/@mayank1327) for technical articles
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-✨ *“Always learning, always building.”*
+<div align="center">
+  <b>Let's create something amazing together! 🚀</b>
+  
+  ⭐️ From [Mayank](https://github.com/mayank1327)
+</div>
+
+---
+
+<div align="center">
+  
+  [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/mayank1327)
+  
+</div>
 
