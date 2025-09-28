@@ -1,7 +1,7 @@
 ![logo](https://github.com/mayank1327/mayank1327/blob/main/codeWord3.jpeg)
 
 <h1 align="center">Hi 👋, I'm Mayank</h1>
-<h3 align="center">ECE student | Developer | Building projects with Java, DSA & MERN Stack</h3>
+<h3 align="center">ECE student | Backend Engineer </h3>
 
 <div align="center">
   
@@ -14,40 +14,31 @@
 
 ---
 
-### 🎯 Quick Highlights
-
-- 🎓 ECE Student passionate about technology
-- 💻 Full Stack Developer with MERN expertise
-- 🌟 Strong foundation in Java & Data Structures
-- 🔍 Currently exploring Low-Level Design (LLD)
-- 🚀 Building real-world projects
-- 📚 Continuous learner & problem solver
-
 ### 👨‍💻 About Me
 
-Hey there! I'm **Mayank**, an enthusiastic ECE student with a deep passion for software development. My journey in tech is driven by:
+Hi! It’s Mayank, who loves creating & exploring through a code.
 
-- 🔭 Building robust applications using **Java** and **MERN Stack**
+My journey in tech is driven by:
+- 🔭 I like building logic with **Java & DSA**,
 - 🌱 Mastering **Data Structures & Algorithms**
 - 💡 Implementing **clean code** practices & **design patterns**
 - 🎯 Creating solutions that make a difference
 
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
+> "Code is like humor. When you have to explain it, it's bad." 
 
-### 🌟 What Makes Me Different
+### 👀 What Makes Me Different
 
 - 🤝 Strong team collaboration skills
 - 🎯 Detail-oriented problem solver
 - 📚 Quick learner & adaptable
 - 💭 Creative thinking approach
 
-### 🎵 Beyond Coding
 
-When I'm not coding, you'll find me:
+🥂 When I'm not coding, you'll find me:
+
 - 🎵 Vibing to old classic songs
 - ☕ Enjoying a perfect cup of tea
 - 🌿 Finding peace in nature
-- 📖 Learning something new
 
 ### 🛠 Technical Arsenal
 
@@ -117,7 +108,7 @@ Backend:
   <a href="https://instagram.com/kanaporwal_" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="40"/>
   </a>
-  
+
   <!-- WhatsApp -->
   <a href="https://wa.me/917898951327" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40"/>
@@ -141,8 +132,8 @@ Backend:
 
 ### 🏆 Recent Achievements
 
-- 🌟 Completed 200+ DSA problems on LeetCode
-- 🚀 Built full-stack projects using MERN
+- 🌟 Solved 600+ Data Structures & Algorithms problems | Max Rating: 1668 | Ranked in Top 15% Worldwide
+- 🚀 Built Backend projects using Node.js
 - 📚 Learning System Design principles
 
 ### 📝 Latest Blog Posts
