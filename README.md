@@ -96,38 +96,57 @@ Backend:
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/mayank1327" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/>
   </a>
-  
+  &nbsp;
   <!-- LeetCode -->
   <a href="https://leetcode.com/mayank1327/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="20" width="20"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="30"/>
   </a>
-  
+  &nbsp;
   <!-- Instagram -->
   <a href="https://instagram.com/kanaporwal_" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="20" width="20"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="30"/>
   </a>
-
+&nbsp;
   <!-- WhatsApp -->
   <a href="https://wa.me/917898951327" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="20" width="20"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="30"/>
   </a>
-  
+  &nbsp;
   <!-- Medium -->
   <a href="https://medium.com/@mayank1327" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/medium-47-433633.png" alt="Medium" height="20" width="20"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/medium-47-433633.png" alt="Medium" height="30" width="30"/>
   </a>
 </p>
 
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayank1327&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <!-- GitHub Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=mayank1327&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
+
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank1327&theme=radical" alt="GitHub Streak" />
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mayank1327&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank1327&layout=compact&theme=radical" alt="Most Used Languages" />
+
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank1327&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+  <br/>
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank1327&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+
+  <br/>
+
+  <!-- GitHub Contributions Graph (optional, adds a nice visual touch) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank1327&theme=radical&hide_border=true" alt="GitHub Contribution Graph" />
+
 </div>
 
 ### 🏆 Recent Achievements
