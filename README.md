@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mayank1327&label=Mayank's+Tea+Drinkers+Visited&color=brightgreen" alt="profile views" />
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" height="120"/>
 </p>
 
 <h1 align="center"> Hi 🙋‍♂️, It's Mayank !! </h1>
