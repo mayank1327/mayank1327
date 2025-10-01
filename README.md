@@ -124,16 +124,6 @@ Backend:
 
 <div align="center">
 
-  <!-- GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mayank1327&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Profile Trophy" />
-
-  <br/>
-
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mayank1327&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-  <br/>
-
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank1327&theme=radical&hide_border=true" alt="GitHub Streak" />
 
@@ -144,7 +134,7 @@ Backend:
 
   <br/>
 
-  <!-- GitHub Contributions Graph (optional, adds a nice visual touch) -->
+  <!-- GitHub Contributions Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank1327&theme=radical&hide_border=true" alt="GitHub Contribution Graph" />
 
 </div>
