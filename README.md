@@ -2,6 +2,37 @@
   <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" height="120"/>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="160"/>
+</p>
+
+<p align="center" style="font-size: 2rem;">
+  💻 🐱 ☕ 🎶
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&size=30&pause=1000&color=F7A700&width=420&lines=Welcome+to+Mayank's+Coding+Corner!;I+love+Java,+DSA,+and+tea!" />
+</p>
+
+
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="160"/>
+  <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" height="120"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" height="160"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&size=30&pause=1000&color=F7A700&width=420&lines=Welcome+to+Mayank's+Coding+Corner!;I+love+Java,+DSA,+and+tea!" />
+</p>
+<p align="center" style="font-size: 2rem;">
+  💻 🐱 ☕ 🎶
+</p>
+
 <h1 align="center"> Hi 🙋‍♂️, It's Mayank !! </h1>
 <h3 align="center">ECE student | Backend Engineer </h3>
 
