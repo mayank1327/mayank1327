@@ -1,4 +1,4 @@
-![logo](https://github.com/mayank1327/mayank1327/blob/main/codeWord3.jpeg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7A700&width=435&lines=Hi+I'm+Mayank!;ECE+Student+%7C+Developer+%7C+Tea+Lover;Building+cool+stuff+with+Java+and+MERN+Stack;Always+learning+something+new!)](https://git.io/typing-svg)
 
 <h1 align="center"> Hi 🙋‍♂️, It's Mayank !! </h1>
 <h3 align="center">ECE student | Backend Engineer </h3>
