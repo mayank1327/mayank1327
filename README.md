@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/tea_1f375.png" height="60" />
-  <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/headphone_1f3a7.png" height="60" />
-  <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/laptop_1f4bb.png" height="60" />
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" height="120" />
 </p>
 
 <h1 align="center"> Hi 🙋‍♂️, It's Mayank !! </h1>
