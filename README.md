@@ -14,7 +14,7 @@
 
 ---
 
-### 🦦 About Me
+###  🎓 About Me
 
 Hi! It’s Mayank, who loves creating & exploring through a code.
 
