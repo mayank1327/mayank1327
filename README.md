@@ -106,22 +106,22 @@ Backend:
   <a href="https://linkedin.com/in/mayank1327" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <!-- LeetCode -->
   <a href="https://leetcode.com/mayank1327/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="30"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <!-- Instagram -->
   <a href="https://instagram.com/kanaporwal_" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" height="30" width="30"/>
   </a>
-&nbsp;
+&nbsp;&nbsp;
   <!-- WhatsApp -->
   <a href="https://wa.me/917898951327" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="30"/>
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <!-- Medium -->
   <a href="https://medium.com/@mayank1327" target="_blank">
     <img src="https://logo.svgcdn.com/s/medium-dark.png" alt="Medium" height="30" width="30"/>
