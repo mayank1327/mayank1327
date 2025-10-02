@@ -124,7 +124,7 @@ Backend:
   &nbsp;
   <!-- Medium -->
   <a href="https://medium.com/@mayank1327" target="_blank">
-    <img src="https://logo.svgcdn.com/l/medium-icon.png" alt="Medium" height="30" width="30"/>
+    <img src="https://logo.svgcdn.com/s/medium-dark.png" alt="Medium" height="30" width="30"/>
   </a>
 </p>
 
