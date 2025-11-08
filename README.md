@@ -148,12 +148,3 @@ Backend:
   
   ⭐️ From [Mayank](https://github.com/mayank1327)🍁
 </div>
-
----
-
-<div align="center">
-  
-  [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/mayank1327)
-  
-</div>
-
