@@ -1,13 +1,4 @@
 
-<p align="center" style="font-size: 2rem;">
-  💻 🐱 ☕ 🎶
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&size=30&pause=1000&color=F7A700&width=420&lines=Welcome+to+Mayank's+Tea+Club!;Find?+Java,+DSA,+and+tea!" />
-</p>
-
-
 <h1 align="center"> Hi 🙋‍♂️, It's Mayank !! </h1>
 <h3 align="center">ECE student | Backend Engineer </h3>
 
