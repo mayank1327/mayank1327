@@ -25,19 +25,11 @@ My journey in tech is driven by:
 
 > "Code is like humor. When you have to explain it, it's bad." 
 
-### 👀 What Makes Me Different
-
-- 🤝 Strong team collaboration skills
-- 🎯 Detail-oriented problem solver
-- 📚 Quick learner & adaptable
-- 💭 Creative thinking approach
-
-
 🥂 When I'm not coding, you'll find me:
 
 - 🎵 Vibing to old classic songs
 - ☕ Enjoying a perfect cup of tea
-- 🌿 Finding peace in nature
+- 🌿 Finding peace in nature 
 
 ### 🛠 Technical Arsenal
 
