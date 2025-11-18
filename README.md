@@ -17,7 +17,6 @@
 
 Hi! It’s Mayank, who loves creating & exploring through a code.
 
-My journey in tech is driven by:
 - 🔭 I like building logic with **Java & DSA**,
 - 🌱 Mastering **Data Structures & Algorithms**
 - 💡 Implementing **clean code** practices & **design patterns**
