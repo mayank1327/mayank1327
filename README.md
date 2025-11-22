@@ -123,10 +123,6 @@ Backend:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank1327&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
 
   <br/>
-
-  <!-- GitHub Contributions Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayank1327&theme=radical&hide_border=true" alt="GitHub Contribution Graph" />
-
 </div>
 
 ### 🏆 Recent Achievements
