@@ -19,7 +19,7 @@ Final-year ECE student who fell in love with backend development and building sy
 - 📊 **Solved**: 650+ LeetCode problems | **Rating: 1772** | Top **8.72%** globally
 - 🏆 **Won**: Build for Bharat Student Innovators Challenge - **3rd Place** (2025)
 - 🎯 **Focus**: Clean architecture, design patterns, and scalable systems
-- 📍 **Location**: Indore, India | Open to relocation
+- 📍 **Location**: Bhopal, India | Open to relocation
 
 > Currently seeking **Backend Engineering roles** where I can build impactful products and grow as an engineer.
 
@@ -116,7 +116,7 @@ I'm actively looking for **Backend Engineering opportunities** where I can:
 - 📧 Email: mayankmehta1327@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/mayank1327](https://linkedin.com/in/mayank1327)
 - 📱 WhatsApp: +91 7898951327
-- 💻 LeetCode: [leetcode.com/mayank1327](https://leetcode.com/mayank1327/)
+- 💻 LeetCode: [leetcode.com/mayank1327](https://leetcode.com/u/mayank1327/)
 
 ---
 
