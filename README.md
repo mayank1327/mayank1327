@@ -27,7 +27,7 @@ Final-year ECE student who fell in love with backend development and building sy
 
 ## 🚀 Featured Projects
 
-### [SmartKirana](https://github.com/mayank1327/smartkirana-backend) - Multi-Unit Inventory Management System
+### [SmartKirana](https://github.com/mayank1327/SmartKirana) - Multi-Unit Inventory Management System
 *Live system built for kirana shops with real-world complexity*
 
 **Tech Stack**: Node.js, Express.js, MongoDB, JWT
@@ -40,19 +40,6 @@ Final-year ECE student who fell in love with backend development and building sy
 - Layered architecture (Repository → Service → Controller)
 
 **Why it's complex**: Handles variation-based billing, automatic stock reconciliation, and real-time cost tracking - solving actual problems I observed in my family's kirana shop.
-
-### [Wanderlust](https://github.com/mayank1327/wanderlust) - Travel Listing Platform
-*Full-stack travel platform with authentication and cloud storage*
-
-**Tech Stack**: Node.js, Express.js, MongoDB, EJS, Passport.js, Cloudinary
-
-**Features**:
-- MVC architecture with server-side rendering
-- Session-based authentication with role-based authorization
-- Image upload and management via Cloudinary
-- CRUD operations for travel listings with owner permissions
-
----
 
 ## 🛠️ Technical Skills
 
