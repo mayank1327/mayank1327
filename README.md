@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/mayank1327"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://leetcode.com/mayank1327/"><img src="https://img.shields.io/badge/LeetCode-1772-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://github.com/mayank1327"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:mayankmehta1327@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://medium.com/@mayank1327"><img src="https://img.shields.io/badge/Medium-Blogs-D14836?style=for-the-badge&logo=Medium&logoColor=white" /></a>
 </p>
 
 ---
