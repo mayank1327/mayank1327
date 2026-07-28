@@ -2,8 +2,6 @@
 
 # Hi, I'm Mayank 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=2200&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+software+around+real+problems.;Understanding+systems+before+optimizing+them.;Always+curious+about+what+happens+behind+the+API." />
-
 <p>
 <a href="https://linkedin.com/in/mayank1327"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/u/mayank1327/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat-square&logo=leetcode&logoColor=white"/></a>
