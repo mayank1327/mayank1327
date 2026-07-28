@@ -2,53 +2,52 @@
 
 # Hi, I'm Mayank 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=2200&color=58A6FF&center=true&vCenter=true&width=700&lines=Thinking+like+a+backend+engineer.;Building+software+around+real+problems.;Always+curious+about+how+systems+work." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=2200&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+software+around+real+problems.;Understanding+systems+before+optimizing+them.;Always+curious+about+what+happens+behind+the+API." />
 
-<p>
-  <a href="https://linkedin.com/in/mayank1327">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/mayank1327/">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://github.com/mayank1327">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<br>
+
+<a href="https://linkedin.com/in/mayank1327">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/mayank1327/">
+<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat-square&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mayank1327">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## Why I'm Here
 
-I enjoy understanding how software behaves before trying to optimize it.
+I enjoy understanding how software behaves in production, why systems fail, and the engineering decisions that make them reliable.
 
-Most of my learning comes from building products, reading backend code, debugging production issues, and understanding why engineering decisions are made.
-
-I'm currently exploring how reliable backend systems are designed—not just how APIs are written.
+Most of what I learn comes from building products, reading code, debugging issues, and asking *"why was it designed this way?"*
 
 ---
 
-## 🌱 Currently Exploring
+## On My Desk
 
-- ⚙️ Backend Engineering
-- 🧠 Distributed Systems
+- 🌱 Distributed Systems
 - 🗄️ Databases
-- 🚀 System Design
-- 🐞 Production Debugging
-- 📈 Performance & Reliability
-- ☁️ AWS & Infrastructure
+- 🧩 System Design
+- ⚡ Performance
+- ☁️ AWS
+- 🔍 Production Debugging
 
 ---
 
-## 🚀 Featured Work
+## Things I've Built
 
 ### 🛒 SmartKirana
 
 Backend system built for my family's wholesale business.
 
-Instead of creating another portfolio project, I solved inventory, billing, pricing, and stock management problems that existed in the real world.
+Designed around real inventory, billing, pricing, and stock management challenges instead of hypothetical problems.
 
 ---
 
@@ -56,67 +55,43 @@ Instead of creating another portfolio project, I solved inventory, billing, pric
 
 Working on production backend systems.
 
-Recently explored:
-
-- API Load Testing
-- RabbitMQ
-- Redis
-- Production Debugging
-- Codebase Audits
-- Architecture Improvements
+Recently spent time on load testing, backend architecture, Redis, RabbitMQ, debugging production issues, and understanding large codebases.
 
 ---
 
-## 🧰 Tech Stack
+## Tech I Enjoy Working With
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,rabbitmq,aws,docker,git,github,java,javascript,react"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,rabbitmq,docker,aws,git,github,java,javascript,react"/>
 
 </p>
 
 ---
 
-## 📊 GitHub
+## Engineering Journal
 
-<p align="center">
+Things I've enjoyed learning recently
 
-<img
-  height="170"
-  src="https://streak-stats.demolab.com?user=mayank1327&theme=tokyonight&hide_border=true"
-/>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/mayank1327?theme=dark&font=JetBrains%20Mono&ext=contest" />
-</p>
-
-</p>
-
----
-
-## 💻 LeetCode
-
-- 🏆 Rating **1772**
-- 🌍 Top **8.72%**
-- ✅ **650+** Problems Solved
-
----
-
-## ☕
-
-Outside of code you'll usually find me with
-
-- ☕ Tea
-- 🎵 Old songs
-- 📖 Reading about backend engineering
-- 💭 Thinking about better ways to build systems
+- Understanding why production bugs happen instead of only fixing them.
+- Reading large codebases without getting lost.
+- Designing APIs around business rules.
+- Exploring caching, queues, and system trade-offs.
+- Building software that's easier to maintain six months later.
 
 ---
 
 <div align="center">
 
-> *"I don't want to become someone who knows many technologies.*
->
-> *I want to become someone who understands systems."*
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=mayank1327&theme=github-dark-blue&hide_border=true"/>
 
 </div>
+
+---
+
+## Beyond Code
+
+- ☕ Tea usually gets cold while I'm debugging something.
+- 🎵 Old songs playing quietly in the background.
+- 📖 Backend blogs, engineering write-ups, and architecture rabbit holes.
+
