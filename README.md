@@ -24,9 +24,11 @@
 
 ## Why I'm Here
 
-I enjoy understanding how software behaves in production, why systems fail, and the engineering decisions that make them reliable.
+I enjoy understanding how software behaves in production, 
+why systems fail, and the engineering decisions that make them reliable.
 
-Most of what I learn comes from building products, reading code, debugging issues, and asking *"why was it designed this way?"*
+Most of what I learn comes from building products, 
+reading code, debugging issues, and asking *"why was it designed this way?"*
 
 ---
 
@@ -55,7 +57,8 @@ Designed around real inventory, billing, pricing, and stock management challenge
 
 Working on production backend systems.
 
-Recently spent time on load testing, backend architecture, Redis, RabbitMQ, debugging production issues, and understanding large codebases.
+Recently spent time on load testing, backend architecture, Redis, RabbitMQ, 
+debugging production issues, and understanding large codebases.
 
 ---
 
