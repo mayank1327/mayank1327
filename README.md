@@ -81,9 +81,14 @@ Recently explored:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mayank1327&show_icons=true&theme=github_dark&hide_border=true"/>
+<img
+  height="170"
+  src="https://streak-stats.demolab.com?user=mayank1327&theme=tokyonight&hide_border=true"
+/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank1327&theme=github-dark&hide_border=true"/>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mayank1327?theme=dark&font=JetBrains%20Mono&ext=contest" />
+</p>
 
 </p>
 
