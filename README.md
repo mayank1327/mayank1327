@@ -2,7 +2,7 @@
 
 Backend Engineer building reliable systems.
 
-More curious about **"why"** than **"how."**
+Finding the "why" behind the code.
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis,rabbitmq,docker,aws,git,github,javascript,typescript,java,jest,postman" />
