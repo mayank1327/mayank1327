@@ -1,6 +1,6 @@
 # Hi, I'm Mayank 👋
 
-Backend Engineer building reliable systems.
+Backend Engineer |
 
 Finding the "why" behind the code.
 
